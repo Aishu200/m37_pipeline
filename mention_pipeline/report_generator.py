@@ -21,7 +21,9 @@ class ReportGenerator:
         batches: list[Batch],
         batch_results: list[BatchResult],
         failed_mentions: list[FailedMention],
+        responses: list[LLMResponse],
     ) -> Report:
+        
         """Aggregate pipeline results into a report."""
         tenant_mentions = self._group_mentions_by_tenant(mentions)
         tenant_batches = self._group_batches_by_tenant(batches)
@@ -30,7 +32,7 @@ class ReportGenerator:
             mentions,
         )
 
-        all_responses = self._get_all_responses(batch_results)
+        all_responses = responses
 
         tenant_reports = {}
 
@@ -124,16 +126,6 @@ class ReportGenerator:
             grouped.setdefault(tenant_id, []).append(failure)
 
         return grouped
-
-    @staticmethod
-    def _get_all_responses(batch_results: list[BatchResult]) -> list[LLMResponse]:
-        """Flatten successful LLM responses from all batch results."""
-        responses: list[LLMResponse] = []
-
-        for result in batch_results:
-            responses.extend(result.results)
-
-        return responses
 
 
     @staticmethod
