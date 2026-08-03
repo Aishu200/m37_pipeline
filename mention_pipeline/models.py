@@ -52,6 +52,15 @@ class LLMResponse:
     topics: list[str] = field(default_factory= list)
     enrichment_source: str = "llm"
     
+
+
+# ============ Batch Result ============
+@dataclass
+class BatchResult:
+    """Represent the result of processing one batch."""
+    results: list[LLMResponse] = field(default_factory=list)
+    prompt_tokens: int = 0
+    completion_tokens: int = 0 
     
     
     

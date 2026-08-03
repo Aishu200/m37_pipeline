@@ -35,12 +35,14 @@ pipeline/
 │   ├── batch.py
 │   ├── deduplication.py
 │   ├── exceptions.py
+|   ├── llm.py
 │   
 │
 ├── tests/                   # Unit and integration tests
 │   ├── __init__.py
 |   ├── test_batch.py
 |   ├── test_dedup.py
+|   ├── test_llm.py
 |
 ├── pyproject.toml           # Project configuration
 ├── Makefile                 # Common development commands
