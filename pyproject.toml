@@ -1,0 +1,27 @@
+[project]
+name = "mention_pipeline"
+version = "0.1.0"
+authors = [
+    {name = "Divyanshu Gaur", email = "divyanshugaur1800@gmail.com"}
+]
+dependencies = []
+requires-python = ">=3.11"
+
+
+[dependency-groups]
+dev = [
+    "pytest",
+    "ruff",
+    "mypy",
+]
+
+
+[tool.ruff]
+
+
+[tool.mypy]
+strict = true
+
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
