@@ -36,6 +36,7 @@ pipeline/
 │   ├── deduplication.py
 │   ├── exceptions.py
 |   ├── llm.py
+|   ├── retry.py
 │   
 │
 ├── tests/                   # Unit and integration tests
@@ -43,6 +44,7 @@ pipeline/
 |   ├── test_batch.py
 |   ├── test_dedup.py
 |   ├── test_llm.py
+|   ├── test_retry.py
 |
 ├── pyproject.toml           # Project configuration
 ├── Makefile                 # Common development commands
