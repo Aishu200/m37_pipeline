@@ -1,0 +1,802 @@
+[
+  {
+    "id": "m-001",
+    "tenant_id": "globex",
+    "source": "PTI",
+    "published_at": "2026-03-24T18:00:00Z",
+    "title": "Globex Industries faces antitrust probe in Southeast Asia",
+    "body": "Regulators in Southeast Asia have opened a preliminary antitrust investigation into Globex Industries's pricing practices in the cloud storage market. Globex Industries said it is cooperating fully and believes its practices comply with all applicable laws."
+  },
+  {
+    "id": "m-002",
+    "tenant_id": "globex",
+    "source": "Reuters",
+    "published_at": "2026-03-24T18:17:00Z",
+    "title": "Globex Industries faces antitrust probe in Southeast Asia",
+    "body": "Regulators in Southeast Asia have opened a preliminary antitrust investigation into Globex Industries's pricing practices in the cloud storage market. Globex Industries said it is cooperating fully and believes its practices comply with all applicable laws."
+  },
+  {
+    "id": "m-003",
+    "tenant_id": "acme",
+    "source": "Business Standard",
+    "published_at": "2026-03-28T01:00:00Z",
+    "title": "Acme Corp opens second plant in Hyderabad",
+    "body": "Acme Corp announced on Saturday that it has commissioned a new manufacturing facility in Hyderabad, its second in the region. The plant will employ roughly 130 workers and is expected to double the company's output of industrial fasteners by next fiscal year. Company officials said the expansion reflects growing demand from the automotive and construction sectors."
+  },
+  {
+    "id": "m-004",
+    "tenant_id": "acme",
+    "source": "Reuters",
+    "published_at": "2026-03-28T01:17:00Z",
+    "title": "Acme Corporation opens second plant in Hyderabad",
+    "body": "Acme Corp announced on Saturday that it has commissioned a new manufacturing facility in Hyderabad, its second in the region. The plant will employ roughly 130 workers and is expected to double the company's output of industrial fasteners by next fiscal year. Company officials said the expansion reflects growing demand from the automotive and construction sectors."
+  },
+  {
+    "id": "m-005",
+    "tenant_id": "acme",
+    "source": "Financial Express",
+    "published_at": "2026-03-28T01:34:00Z",
+    "title": "Breaking: PTI - Acme Corp opens second plant in Hyderabad",
+    "body": "Industry sources confirmed that acme corp announced on saturday that it has commissioned a new manufacturing facility in hyderabad, its second in the region. The plant will employ roughly 130 workers and is expected to double the company's output of industrial fasteners by next fiscal year. Company officials said the expansion reflects growing demand from the automotive and construction sectors."
+  },
+  {
+    "id": "m-006",
+    "tenant_id": "acme",
+    "source": "LiveMint",
+    "published_at": "2026-03-28T01:51:00Z",
+    "title": "Acme Corp opens second plant in Hyderabad — sources",
+    "body": "Acme Corp announced on Saturday that it has commissioned a new manufacturing facility in Hyderabad, its second in the region. The plant will employ roughly 130 workers and is expected to double the company's output of industrial fasteners by next fiscal year. Company officials said the expansion reflects growing demand from the automotive and construction sectors. Further details are expected in the coming days."
+  },
+  {
+    "id": "m-007",
+    "tenant_id": "initech",
+    "source": "Moneycontrol",
+    "published_at": "2026-04-05T04:00:00Z",
+    "title": "Initech Ltd launches new payroll software suite",
+    "body": "Initech Ltd rolled out an updated version of its flagship payroll software, adding automated tax compliance features for small and mid-sized businesses across Latin America. The company said early customer feedback has been positive."
+  },
+  {
+    "id": "m-008",
+    "tenant_id": "initech",
+    "source": "Mint",
+    "published_at": "2026-04-05T04:17:00Z",
+    "title": "Initech Limited launches new payroll software suite",
+    "body": "Initech Ltd rolled out an updated version of its flagship payroll software, adding automated tax compliance features for small and mid-sized businesses across Latin America. The company said early customer feedback has been positive."
+  },
+  {
+    "id": "m-009",
+    "tenant_id": "initech",
+    "source": "PTI",
+    "published_at": "2026-04-05T04:34:00Z",
+    "title": "Breaking: PTI - Initech Ltd launches new payroll software suite",
+    "body": "Industry sources confirmed that initech ltd rolled out an updated version of its flagship payroll software, adding automated tax compliance features for small and mid-sized businesses across latin america. The company said early customer feedback has been positive."
+  },
+  {
+    "id": "m-010",
+    "tenant_id": "acme",
+    "source": "Business Standard",
+    "published_at": "2026-04-10T06:00:00Z",
+    "title": "Acme Corp shares slide after CFO resignation",
+    "body": "Shares of Acme Corp fell as much as 39% in early trading after the company announced the sudden resignation of its chief financial officer, effective immediately. The company said the search for a successor is underway and that day-to-day operations remain unaffected."
+  },
+  {
+    "id": "m-011",
+    "tenant_id": "acme",
+    "source": "PTI",
+    "published_at": "2026-04-10T06:17:00Z",
+    "title": "Acme Corporation shares slide after CFO resignation",
+    "body": "Shares of Acme Corp fell as much as 39% in early trading after the company announced the sudden resignation of its chief financial officer, effective immediately. The company said the search for a successor is underway and that day-to-day operations remain unaffected."
+  },
+  {
+    "id": "m-012",
+    "tenant_id": "acme",
+    "source": "LiveMint",
+    "published_at": "2026-04-10T06:34:00Z",
+    "title": "Breaking: PTI - Acme Corp shares slide after CFO resignation",
+    "body": "Industry sources confirmed that shares of acme corp fell as much as 39% in early trading after the company announced the sudden resignation of its chief financial officer, effective immediately. The company said the search for a successor is underway and that day-to-day operations remain unaffected."
+  },
+  {
+    "id": "m-013",
+    "tenant_id": "acme",
+    "source": "ANI",
+    "published_at": "2026-03-28T10:00:00Z",
+    "title": "Acme Corp shares slide after CFO resignation",
+    "body": "Shares of Acme Corp fell as much as 37% in early trading after the company announced the sudden resignation of its chief financial officer, effective immediately. The company said the search for a successor is underway and that day-to-day operations remain unaffected."
+  },
+  {
+    "id": "m-014",
+    "tenant_id": "acme",
+    "source": "CNBC-TV18",
+    "published_at": "2026-03-28T10:17:00Z",
+    "title": "Acme Corporation shares slide after CFO resignation",
+    "body": "Shares of Acme Corp fell as much as 37% in early trading after the company announced the sudden resignation of its chief financial officer, effective immediately. The company said the search for a successor is underway and that day-to-day operations remain unaffected."
+  },
+  {
+    "id": "m-015",
+    "tenant_id": "acme",
+    "source": "The Hindu BusinessLine",
+    "published_at": "2026-03-28T10:34:00Z",
+    "title": "Breaking: PTI - Acme Corp shares slide after CFO resignation",
+    "body": "Industry sources confirmed that shares of acme corp fell as much as 37% in early trading after the company announced the sudden resignation of its chief financial officer, effective immediately. The company said the search for a successor is underway and that day-to-day operations remain unaffected."
+  },
+  {
+    "id": "m-016",
+    "tenant_id": "globex",
+    "source": "LiveMint",
+    "published_at": "2026-04-03T15:00:00Z",
+    "title": "Globex Industries faces antitrust probe in the Middle East",
+    "body": "Regulators in the Middle East have opened a preliminary antitrust investigation into Globex Industries's pricing practices in the cloud storage market. Globex Industries said it is cooperating fully and believes its practices comply with all applicable laws."
+  },
+  {
+    "id": "m-017",
+    "tenant_id": "globex",
+    "source": "CNBC-TV18",
+    "published_at": "2026-04-03T15:17:00Z",
+    "title": "Globex Industries faces antitrust probe in the Middle East",
+    "body": "Regulators in the Middle East have opened a preliminary antitrust investigation into Globex Industries's pricing practices in the cloud storage market. Globex Industries said it is cooperating fully and believes its practices comply with all applicable laws."
+  },
+  {
+    "id": "m-018",
+    "tenant_id": "globex",
+    "source": "Bloomberg",
+    "published_at": "2026-04-03T15:34:00Z",
+    "title": "Breaking: PTI - Globex Industries faces antitrust probe in the Middle East",
+    "body": "Industry sources confirmed that regulators in the middle east have opened a preliminary antitrust investigation into globex industries's pricing practices in the cloud storage market. Globex Industries said it is cooperating fully and believes its practices comply with all applicable laws."
+  },
+  {
+    "id": "m-019",
+    "tenant_id": "initech",
+    "source": "Financial Express",
+    "published_at": "2026-04-01T13:00:00Z",
+    "title": "Initech Ltd launches new payroll software suite",
+    "body": "Initech Ltd rolled out an updated version of its flagship payroll software, adding automated tax compliance features for small and mid-sized businesses across Latin America. The company said early customer feedback has been positive."
+  },
+  {
+    "id": "m-020",
+    "tenant_id": "initech",
+    "source": "Business Standard",
+    "published_at": "2026-04-01T13:17:00Z",
+    "title": "Initech Limited launches new payroll software suite",
+    "body": "Initech Ltd rolled out an updated version of its flagship payroll software, adding automated tax compliance features for small and mid-sized businesses across Latin America. The company said early customer feedback has been positive."
+  },
+  {
+    "id": "m-021",
+    "tenant_id": "initech",
+    "source": "CNBC-TV18",
+    "published_at": "2026-03-05T02:00:00Z",
+    "title": "Initech Ltd posts narrower quarterly loss",
+    "body": "Initech Ltd reported a narrower-than-expected quarterly loss, helped by cost cuts and stronger subscription renewals. The company reiterated its guidance for breakeven profitability by the end of the fiscal year."
+  },
+  {
+    "id": "m-022",
+    "tenant_id": "initech",
+    "source": "LiveMint",
+    "published_at": "2026-03-05T02:17:00Z",
+    "title": "Initech Limited posts narrower quarterly loss",
+    "body": "Initech Ltd reported a narrower-than-expected quarterly loss, helped by cost cuts and stronger subscription renewals. The company reiterated its guidance for breakeven profitability by the end of the fiscal year."
+  },
+  {
+    "id": "m-023",
+    "tenant_id": "initech",
+    "source": "Financial Express",
+    "published_at": "2026-03-05T02:34:00Z",
+    "title": "Breaking: PTI - Initech Ltd posts narrower quarterly loss",
+    "body": "Industry sources confirmed that initech ltd reported a narrower-than-expected quarterly loss, helped by cost cuts and stronger subscription renewals. The company reiterated its guidance for breakeven profitability by the end of the fiscal year."
+  },
+  {
+    "id": "m-024",
+    "tenant_id": "acme",
+    "source": "CNBC-TV18",
+    "published_at": "2026-04-12T11:00:00Z",
+    "title": "Acme Corp opens second plant in Noida",
+    "body": "Acme Corp announced on Friday that it has commissioned a new manufacturing facility in Noida, its second in the region. The plant will employ roughly 380 workers and is expected to double the company's output of industrial fasteners by next fiscal year. Company officials said the expansion reflects growing demand from the automotive and construction sectors."
+  },
+  {
+    "id": "m-025",
+    "tenant_id": "acme",
+    "source": "The Hindu BusinessLine",
+    "published_at": "2026-04-12T11:17:00Z",
+    "title": "Acme Corporation opens second plant in Noida",
+    "body": "Acme Corp announced on Friday that it has commissioned a new manufacturing facility in Noida, its second in the region. The plant will employ roughly 380 workers and is expected to double the company's output of industrial fasteners by next fiscal year. Company officials said the expansion reflects growing demand from the automotive and construction sectors."
+  },
+  {
+    "id": "m-026",
+    "tenant_id": "acme",
+    "source": "Deccan Herald",
+    "published_at": "2026-03-16T12:00:00Z",
+    "title": "Acme Corp shares slide after CFO resignation",
+    "body": "Shares of Acme Corp fell as much as 11% in early trading after the company announced the sudden resignation of its chief financial officer, effective immediately. The company said the search for a successor is underway and that day-to-day operations remain unaffected."
+  },
+  {
+    "id": "m-027",
+    "tenant_id": "acme",
+    "source": "CNBC-TV18",
+    "published_at": "2026-03-16T12:17:00Z",
+    "title": "Acme Corporation shares slide after CFO resignation",
+    "body": "Shares of Acme Corp fell as much as 11% in early trading after the company announced the sudden resignation of its chief financial officer, effective immediately. The company said the search for a successor is underway and that day-to-day operations remain unaffected."
+  },
+  {
+    "id": "m-028",
+    "tenant_id": "acme",
+    "source": "Business Standard",
+    "published_at": "2026-03-16T12:34:00Z",
+    "title": "Breaking: PTI - Acme Corp shares slide after CFO resignation",
+    "body": "Industry sources confirmed that shares of acme corp fell as much as 11% in early trading after the company announced the sudden resignation of its chief financial officer, effective immediately. The company said the search for a successor is underway and that day-to-day operations remain unaffected."
+  },
+  {
+    "id": "m-029",
+    "tenant_id": "acme",
+    "source": "The Hindu BusinessLine",
+    "published_at": "2026-03-18T22:00:00Z",
+    "title": "Acme Corp signs supply deal with Halcyon Systems",
+    "body": "Acme Corp and Halcyon Systems have entered into a multi-year supply agreement worth an estimated $570 million. Under the deal, Acme Corp will provide precision components for Halcyon Systems's upcoming product lineup starting next quarter."
+  },
+  {
+    "id": "m-030",
+    "tenant_id": "acme",
+    "source": "Financial Express",
+    "published_at": "2026-03-18T22:17:00Z",
+    "title": "Acme Corporation signs supply deal with Halcyon Systems",
+    "body": "Acme Corp and Halcyon Systems have entered into a multi-year supply agreement worth an estimated $570 million. Under the deal, Acme Corp will provide precision components for Halcyon Systems's upcoming product lineup starting next quarter."
+  },
+  {
+    "id": "m-031",
+    "tenant_id": "acme",
+    "source": "Moneycontrol",
+    "published_at": "2026-03-18T22:34:00Z",
+    "title": "Breaking: PTI - Acme Corp signs supply deal with Halcyon Systems",
+    "body": "Industry sources confirmed that acme corp and halcyon systems have entered into a multi-year supply agreement worth an estimated $570 million. Under the deal, Acme Corp will provide precision components for Halcyon Systems's upcoming product lineup starting next quarter."
+  },
+  {
+    "id": "m-032",
+    "tenant_id": "acme",
+    "source": "Mint",
+    "published_at": "2026-03-01T15:00:00Z",
+    "title": "Acme Corp reports 17% rise in quarterly profit",
+    "body": "Acme Corp posted a net profit increase of 17% for the quarter ended Friday, beating analyst estimates. Revenue grew on the back of strong export orders, while margins improved due to lower input costs. The board approved an interim dividend of Rs 860 per share."
+  },
+  {
+    "id": "m-033",
+    "tenant_id": "acme",
+    "source": "Bloomberg",
+    "published_at": "2026-03-01T15:17:00Z",
+    "title": "Acme Corporation reports 17% rise in quarterly profit",
+    "body": "Acme Corp posted a net profit increase of 17% for the quarter ended Friday, beating analyst estimates. Revenue grew on the back of strong export orders, while margins improved due to lower input costs. The board approved an interim dividend of Rs 860 per share."
+  },
+  {
+    "id": "m-034",
+    "tenant_id": "acme",
+    "source": "Times of India",
+    "published_at": "2026-03-01T15:34:00Z",
+    "title": "Breaking: PTI - Acme Corp reports 17% rise in quarterly profit",
+    "body": "Industry sources confirmed that acme corp posted a net profit increase of 17% for the quarter ended friday, beating analyst estimates. Revenue grew on the back of strong export orders, while margins improved due to lower input costs. The board approved an interim dividend of Rs 860 per share."
+  },
+  {
+    "id": "m-035",
+    "tenant_id": "acme",
+    "source": "Economic Times",
+    "published_at": "2026-03-01T15:51:00Z",
+    "title": "Acme Corp reports 17% rise in quarterly profit — sources",
+    "body": "Acme Corp posted a net profit increase of 17% for the quarter ended Friday, beating analyst estimates. Revenue grew on the back of strong export orders, while margins improved due to lower input costs. The board approved an interim dividend of Rs 860 per share. Further details are expected in the coming days."
+  },
+  {
+    "id": "m-036",
+    "tenant_id": "acme",
+    "source": "LiveMint",
+    "published_at": "2026-04-09T20:43:00Z",
+    "title": "Acme Corp signs supply deal with Meridian Logistics",
+    "body": "Acme Corp and Meridian Logistics have entered into a multi-year supply agreement worth an estimated $180 million. Under the deal, Acme Corp will provide precision components for Meridian Logistics's upcoming product lineup starting next quarter."
+  },
+  {
+    "id": "m-037",
+    "tenant_id": "acme",
+    "source": "Economic Times",
+    "published_at": "2026-03-31T20:25:00Z",
+    "title": "Acme Corp signs supply deal with Northbridge Retail",
+    "body": "Acme Corp and Northbridge Retail have entered into a multi-year supply agreement worth an estimated $520 million. Under the deal, Acme Corp will provide precision components for Northbridge Retail's upcoming product lineup starting next quarter."
+  },
+  {
+    "id": "m-038",
+    "tenant_id": "acme",
+    "source": "ANI",
+    "published_at": "2026-03-04T03:00:00Z",
+    "title": "Acme Corp opens second plant in Hyderabad",
+    "body": "Acme Corp announced on Saturday that it has commissioned a new manufacturing facility in Hyderabad, its second in the region. The plant will employ roughly 450 workers and is expected to double the company's output of industrial fasteners by next fiscal year. Company officials said the expansion reflects growing demand from the automotive and construction sectors."
+  },
+  {
+    "id": "m-039",
+    "tenant_id": "acme",
+    "source": "Financial Express",
+    "published_at": "2026-04-09T12:09:00Z",
+    "title": "Acme Corp shares slide after CFO resignation",
+    "body": "Shares of Acme Corp fell as much as 16% in early trading after the company announced the sudden resignation of its chief financial officer, effective immediately. The company said the search for a successor is underway and that day-to-day operations remain unaffected."
+  },
+  {
+    "id": "m-040",
+    "tenant_id": "globex",
+    "source": "Bloomberg",
+    "published_at": "2026-03-30T15:30:00Z",
+    "title": "Globex Industries to lay off 160 employees amid restructuring",
+    "body": "Globex Industries confirmed plans to cut approximately 160 jobs globally as part of a broader restructuring aimed at streamlining operations. The company said the move would generate annual savings of roughly $160 million."
+  },
+  {
+    "id": "m-041",
+    "tenant_id": "acme",
+    "source": "PTI",
+    "published_at": "2026-04-03T00:13:00Z",
+    "title": "Acme Corp reports 13% rise in quarterly profit",
+    "body": "Acme Corp posted a net profit increase of 13% for the quarter ended Saturday, beating analyst estimates. Revenue grew on the back of strong export orders, while margins improved due to lower input costs. The board approved an interim dividend of Rs 630 per share."
+  },
+  {
+    "id": "m-042",
+    "tenant_id": "globex",
+    "source": "The Hindu BusinessLine",
+    "published_at": "2026-04-14T08:33:00Z",
+    "title": "Globex Industries faces antitrust probe in East Africa",
+    "body": "Regulators in East Africa have opened a preliminary antitrust investigation into Globex Industries's pricing practices in the cloud storage market. Globex Industries said it is cooperating fully and believes its practices comply with all applicable laws."
+  },
+  {
+    "id": "m-043",
+    "tenant_id": "acme",
+    "source": "Reuters",
+    "published_at": "2026-04-09T06:51:00Z",
+    "title": "Acme Corp recalls 830,000 units over safety concern",
+    "body": "Acme Corp has issued a voluntary recall of approximately 830,000 units of its flagship product line after internal testing revealed a potential wiring defect. The company said no injuries have been reported and that replacement parts will be shipped to affected customers at no cost."
+  },
+  {
+    "id": "m-044",
+    "tenant_id": "globex",
+    "source": "Reuters",
+    "published_at": "2026-03-18T15:16:00Z",
+    "title": "Globex Industries faces antitrust probe in Latin America",
+    "body": "Regulators in Latin America have opened a preliminary antitrust investigation into Globex Industries's pricing practices in the cloud storage market. Globex Industries said it is cooperating fully and believes its practices comply with all applicable laws."
+  },
+  {
+    "id": "m-045",
+    "tenant_id": "initech",
+    "source": "Reuters",
+    "published_at": "2026-03-07T07:30:00Z",
+    "title": "Initech Ltd posts narrower quarterly loss",
+    "body": "Initech Ltd reported a narrower-than-expected quarterly loss, helped by cost cuts and stronger subscription renewals. The company reiterated its guidance for breakeven profitability by the end of the fiscal year."
+  },
+  {
+    "id": "m-046",
+    "tenant_id": "globex",
+    "source": "Deccan Herald",
+    "published_at": "2026-03-23T20:05:00Z",
+    "title": "Globex Industries faces antitrust probe in East Africa",
+    "body": "Regulators in East Africa have opened a preliminary antitrust investigation into Globex Industries's pricing practices in the cloud storage market. Globex Industries said it is cooperating fully and believes its practices comply with all applicable laws."
+  },
+  {
+    "id": "m-047",
+    "tenant_id": "initech",
+    "source": "Times of India",
+    "published_at": "2026-04-10T10:05:00Z",
+    "title": "Initech Ltd launches new payroll software suite",
+    "body": "Initech Ltd rolled out an updated version of its flagship payroll software, adding automated tax compliance features for small and mid-sized businesses across the Middle East. The company said early customer feedback has been positive."
+  },
+  {
+    "id": "m-048",
+    "tenant_id": "initech",
+    "source": "CNBC-TV18",
+    "published_at": "2026-03-02T04:37:00Z",
+    "title": "Initech Ltd appoints new CEO effective Monday",
+    "body": "Initech Ltd announced the appointment of a new chief executive officer, effective Monday, as part of a planned leadership transition. The incoming CEO previously served as chief operating officer of the company."
+  },
+  {
+    "id": "m-049",
+    "tenant_id": "initech",
+    "source": "Economic Times",
+    "published_at": "2026-04-05T04:01:00Z",
+    "title": "Initech Ltd shares halted after merger report",
+    "body": "Trading in Initech Ltd shares was briefly halted after reports emerged that the company is in advanced talks to merge with a rival software firm. Initech Ltd declined to comment on market speculation."
+  },
+  {
+    "id": "m-050",
+    "tenant_id": "initech",
+    "source": "Bloomberg",
+    "published_at": "2026-03-02T08:13:00Z",
+    "title": "Initech Ltd launches new payroll software suite",
+    "body": "Initech Ltd rolled out an updated version of its flagship payroll software, adding automated tax compliance features for small and mid-sized businesses across the Middle East. The company said early customer feedback has been positive."
+  },
+  {
+    "id": "m-051",
+    "tenant_id": "initech",
+    "source": "ANI",
+    "published_at": "2026-03-23T14:42:00Z",
+    "title": "Initech Ltd shares halted after merger report",
+    "body": "Trading in Initech Ltd shares was briefly halted after reports emerged that the company is in advanced talks to merge with a rival software firm. Initech Ltd declined to comment on market speculation."
+  },
+  {
+    "id": "m-052",
+    "tenant_id": "initech",
+    "source": "Mint",
+    "published_at": "2026-03-02T14:49:00Z",
+    "title": "Initech Ltd appoints new CEO effective Thursday",
+    "body": "Initech Ltd announced the appointment of a new chief executive officer, effective Thursday, as part of a planned leadership transition. The incoming CEO previously served as chief operating officer of the company."
+  },
+  {
+    "id": "m-053",
+    "tenant_id": "initech",
+    "source": "Financial Express",
+    "published_at": "2026-04-05T01:20:00Z",
+    "title": "Initech Ltd launches new payroll software suite",
+    "body": "Initech Ltd rolled out an updated version of its flagship payroll software, adding automated tax compliance features for small and mid-sized businesses across the Middle East. The company said early customer feedback has been positive."
+  },
+  {
+    "id": "m-054",
+    "tenant_id": "initech",
+    "source": "Business Standard",
+    "published_at": "2026-03-18T01:49:00Z",
+    "title": "Initech Ltd posts narrower quarterly loss",
+    "body": "Initech Ltd reported a narrower-than-expected quarterly loss, helped by cost cuts and stronger subscription renewals. The company reiterated its guidance for breakeven profitability by the end of the fiscal year."
+  },
+  {
+    "id": "m-055",
+    "tenant_id": "initech",
+    "source": "Reuters",
+    "published_at": "2026-04-02T19:32:00Z",
+    "title": "Initech Ltd appoints new CEO effective Sunday",
+    "body": "Initech Ltd announced the appointment of a new chief executive officer, effective Sunday, as part of a planned leadership transition. The incoming CEO previously served as chief operating officer of the company."
+  },
+  {
+    "id": "m-056",
+    "tenant_id": "initech",
+    "source": "Bloomberg",
+    "published_at": "2026-04-14T16:56:00Z",
+    "title": "Initech Ltd named in wage dispute lawsuit",
+    "body": "A group of former employees has filed a lawsuit against Initech Ltd alleging unpaid overtime wages spanning several years. Initech Ltd said it disputes the claims and intends to defend itself vigorously."
+  },
+  {
+    "id": "m-057",
+    "tenant_id": "initech",
+    "source": "Reuters",
+    "published_at": "2026-03-21T02:42:00Z",
+    "title": "Initech Ltd shares halted after merger report",
+    "body": "Trading in Initech Ltd shares was briefly halted after reports emerged that the company is in advanced talks to merge with a rival software firm. Initech Ltd declined to comment on market speculation."
+  },
+  {
+    "id": "m-058",
+    "tenant_id": "globex",
+    "source": "Bloomberg",
+    "published_at": "2026-04-12T11:09:00Z",
+    "title": "Globex Industries unveils AI-driven logistics platform",
+    "body": "Globex Industries launched a new AI-driven logistics platform aimed at reducing delivery times across its warehouse network. The platform, developed in partnership with a local startup, uses route optimisation and demand forecasting to cut fuel costs by an estimated 44%."
+  },
+  {
+    "id": "m-059",
+    "tenant_id": "acme",
+    "source": "LiveMint",
+    "published_at": "2026-04-12T07:10:00Z",
+    "title": "Acme Corp signs supply deal with Northbridge Retail",
+    "body": "Acme Corp and Northbridge Retail have entered into a multi-year supply agreement worth an estimated $640 million. Under the deal, Acme Corp will provide precision components for Northbridge Retail's upcoming product lineup starting next quarter."
+  },
+  {
+    "id": "m-060",
+    "tenant_id": "globex",
+    "source": "Economic Times",
+    "published_at": "2026-03-06T23:23:00Z",
+    "title": "Globex Industries stock jumps on upgraded outlook",
+    "body": "Shares of Globex Industries climbed 23% after the company raised its full-year revenue guidance, citing stronger-than-expected enterprise adoption of its cloud services division."
+  },
+  {
+    "id": "m-061",
+    "tenant_id": "globex",
+    "source": "Business Standard",
+    "published_at": "2026-04-09T09:32:00Z",
+    "title": "Globex Industries stock jumps on upgraded outlook",
+    "body": "Shares of Globex Industries climbed 36% after the company raised its full-year revenue guidance, citing stronger-than-expected enterprise adoption of its cloud services division."
+  },
+  {
+    "id": "m-062",
+    "tenant_id": "acme",
+    "source": "Moneycontrol",
+    "published_at": "2026-03-18T04:52:00Z",
+    "title": "Acme Corp reports 14% rise in quarterly profit",
+    "body": "Acme Corp posted a net profit increase of 14% for the quarter ended Saturday, beating analyst estimates. Revenue grew on the back of strong export orders, while margins improved due to lower input costs. The board approved an interim dividend of Rs 70 per share."
+  },
+  {
+    "id": "m-063",
+    "tenant_id": "initech",
+    "source": "LiveMint",
+    "published_at": "2026-03-18T01:51:00Z",
+    "title": "Initech Ltd named in wage dispute lawsuit",
+    "body": "A group of former employees has filed a lawsuit against Initech Ltd alleging unpaid overtime wages spanning several years. Initech Ltd said it disputes the claims and intends to defend itself vigorously."
+  },
+  {
+    "id": "m-064",
+    "tenant_id": "acme",
+    "source": "Bloomberg",
+    "published_at": "2026-04-08T07:04:00Z",
+    "title": "Acme Corp signs supply deal with Vertex Motors",
+    "body": "Acme Corp and Vertex Motors have entered into a multi-year supply agreement worth an estimated $350 million. Under the deal, Acme Corp will provide precision components for Vertex Motors's upcoming product lineup starting next quarter."
+  },
+  {
+    "id": "m-065",
+    "tenant_id": "acme",
+    "source": "LiveMint",
+    "published_at": "2026-03-09T01:33:00Z",
+    "title": "Acme Corp signs supply deal with Northbridge Retail",
+    "body": "Acme Corp and Northbridge Retail have entered into a multi-year supply agreement worth an estimated $360 million. Under the deal, Acme Corp will provide precision components for Northbridge Retail's upcoming product lineup starting next quarter."
+  },
+  {
+    "id": "m-066",
+    "tenant_id": "acme",
+    "source": "Times of India",
+    "published_at": "2026-04-10T09:33:00Z",
+    "title": "Acme Corp opens second plant in Bengaluru",
+    "body": "Acme Corp announced on Wednesday that it has commissioned a new manufacturing facility in Bengaluru, its second in the region. The plant will employ roughly 270 workers and is expected to double the company's output of industrial fasteners by next fiscal year. Company officials said the expansion reflects growing demand from the automotive and construction sectors."
+  },
+  {
+    "id": "m-067",
+    "tenant_id": "acme",
+    "source": "Economic Times",
+    "published_at": "2026-03-17T01:00:00Z",
+    "title": "Acme Corp recalls 460,000 units over safety concern",
+    "body": "Acme Corp has issued a voluntary recall of approximately 460,000 units of its flagship product line after internal testing revealed a potential wiring defect. The company said no injuries have been reported and that replacement parts will be shipped to affected customers at no cost."
+  },
+  {
+    "id": "m-068",
+    "tenant_id": "initech",
+    "source": "Financial Express",
+    "published_at": "2026-03-07T21:52:00Z",
+    "title": "Initech Ltd posts narrower quarterly loss",
+    "body": "Initech Ltd reported a narrower-than-expected quarterly loss, helped by cost cuts and stronger subscription renewals. The company reiterated its guidance for breakeven profitability by the end of the fiscal year."
+  },
+  {
+    "id": "m-069",
+    "tenant_id": "globex",
+    "source": "Deccan Herald",
+    "published_at": "2026-03-15T10:12:00Z",
+    "title": "Globex Industries expands into East Africa with new data centre",
+    "body": "Globex Industries announced it will build a new data centre in East Africa, its first in the region, as part of a $900 million investment to support growing cloud demand. Construction is expected to begin later this year."
+  },
+  {
+    "id": "m-070",
+    "tenant_id": "initech",
+    "source": "Bloomberg",
+    "published_at": "2026-04-10T23:56:00Z",
+    "title": "Initech Ltd shares halted after merger report",
+    "body": "Trading in Initech Ltd shares was briefly halted after reports emerged that the company is in advanced talks to merge with a rival software firm. Initech Ltd declined to comment on market speculation."
+  },
+  {
+    "id": "m-071",
+    "tenant_id": "globex",
+    "source": "CNBC-TV18",
+    "published_at": "2026-04-14T09:02:00Z",
+    "title": "Globex Industries faces antitrust probe in Latin America",
+    "body": "Regulators in Latin America have opened a preliminary antitrust investigation into Globex Industries's pricing practices in the cloud storage market. Globex Industries said it is cooperating fully and believes its practices comply with all applicable laws."
+  },
+  {
+    "id": "m-072",
+    "tenant_id": "acme",
+    "source": "Economic Times",
+    "published_at": "2026-04-05T10:15:00Z",
+    "title": "Acme Corp reports 24% rise in quarterly profit",
+    "body": "Acme Corp posted a net profit increase of 24% for the quarter ended Wednesday, beating analyst estimates. Revenue grew on the back of strong export orders, while margins improved due to lower input costs. The board approved an interim dividend of Rs 480 per share."
+  },
+  {
+    "id": "m-073",
+    "tenant_id": "globex",
+    "source": "Financial Express",
+    "published_at": "2026-03-31T08:32:00Z",
+    "title": "Globex Industries faces antitrust probe in Southeast Asia",
+    "body": "Regulators in Southeast Asia have opened a preliminary antitrust investigation into Globex Industries's pricing practices in the cloud storage market. Globex Industries said it is cooperating fully and believes its practices comply with all applicable laws."
+  },
+  {
+    "id": "m-074",
+    "tenant_id": "acme",
+    "source": "Moneycontrol",
+    "published_at": "2026-03-26T18:02:00Z",
+    "title": "Acme Corp reports 12% rise in quarterly profit",
+    "body": "Acme Corp posted a net profit increase of 12% for the quarter ended Thursday, beating analyst estimates. Revenue grew on the back of strong export orders, while margins improved due to lower input costs. The board approved an interim dividend of Rs 130 per share."
+  },
+  {
+    "id": "m-075",
+    "tenant_id": "acme",
+    "source": "LiveMint",
+    "published_at": "2026-03-10T21:57:00Z",
+    "title": "Acme Corp recalls 760,000 units over safety concern",
+    "body": "Acme Corp has issued a voluntary recall of approximately 760,000 units of its flagship product line after internal testing revealed a potential wiring defect. The company said no injuries have been reported and that replacement parts will be shipped to affected customers at no cost."
+  },
+  {
+    "id": "m-076",
+    "tenant_id": "initech",
+    "source": "Deccan Herald",
+    "published_at": "2026-04-11T04:02:00Z",
+    "title": "Initech Ltd appoints new CEO effective Saturday",
+    "body": "Initech Ltd announced the appointment of a new chief executive officer, effective Saturday, as part of a planned leadership transition. The incoming CEO previously served as chief operating officer of the company."
+  },
+  {
+    "id": "m-077",
+    "tenant_id": "initech",
+    "source": "Financial Express",
+    "published_at": "2026-04-06T00:52:00Z",
+    "title": "Initech Ltd posts narrower quarterly loss",
+    "body": "Initech Ltd reported a narrower-than-expected quarterly loss, helped by cost cuts and stronger subscription renewals. The company reiterated its guidance for breakeven profitability by the end of the fiscal year."
+  },
+  {
+    "id": "m-078",
+    "tenant_id": "initech",
+    "source": "CNBC-TV18",
+    "published_at": "2026-03-07T12:53:00Z",
+    "title": "Initech Ltd shares halted after merger report",
+    "body": "Trading in Initech Ltd shares was briefly halted after reports emerged that the company is in advanced talks to merge with a rival software firm. Initech Ltd declined to comment on market speculation."
+  },
+  {
+    "id": "m-079",
+    "tenant_id": "initech",
+    "source": "Business Standard",
+    "published_at": "2026-03-01T14:51:00Z",
+    "title": "Initech Ltd launches new payroll software suite",
+    "body": "Initech Ltd rolled out an updated version of its flagship payroll software, adding automated tax compliance features for small and mid-sized businesses across East Africa. The company said early customer feedback has been positive."
+  },
+  {
+    "id": "m-080",
+    "tenant_id": "initech",
+    "source": "LiveMint",
+    "published_at": "2026-03-05T08:15:00Z",
+    "title": "Initech Ltd posts narrower quarterly loss",
+    "body": "Initech Ltd reported a narrower-than-expected quarterly loss, helped by cost cuts and stronger subscription renewals. The company reiterated its guidance for breakeven profitability by the end of the fiscal year."
+  },
+  {
+    "id": "m-081",
+    "tenant_id": "acme",
+    "source": "Financial Express",
+    "published_at": "2026-03-03T19:40:00Z",
+    "title": "Acme Corp reports 21% rise in quarterly profit",
+    "body": "Acme Corp posted a net profit increase of 21% for the quarter ended Monday, beating analyst estimates. Revenue grew on the back of strong export orders, while margins improved due to lower input costs. The board approved an interim dividend of Rs 630 per share."
+  },
+  {
+    "id": "m-082",
+    "tenant_id": "acme",
+    "source": "Economic Times",
+    "published_at": "2026-04-09T18:08:00Z",
+    "title": "Acme Corp opens second plant in Chennai",
+    "body": "Acme Corp announced on Wednesday that it has commissioned a new manufacturing facility in Chennai, its second in the region. The plant will employ roughly 850 workers and is expected to double the company's output of industrial fasteners by next fiscal year. Company officials said the expansion reflects growing demand from the automotive and construction sectors."
+  },
+  {
+    "id": "m-083",
+    "tenant_id": "globex",
+    "source": "Bloomberg",
+    "published_at": "2026-03-19T22:33:00Z",
+    "title": "Globex Industries unveils AI-driven logistics platform",
+    "body": "Globex Industries launched a new AI-driven logistics platform aimed at reducing delivery times across its warehouse network. The platform, developed in partnership with a local startup, uses route optimisation and demand forecasting to cut fuel costs by an estimated 34%."
+  },
+  {
+    "id": "m-084",
+    "tenant_id": "globex",
+    "source": "CNBC-TV18",
+    "published_at": "2026-03-31T00:18:00Z",
+    "title": "Globex Industries expands into East Africa with new data centre",
+    "body": "Globex Industries announced it will build a new data centre in East Africa, its first in the region, as part of a $410 million investment to support growing cloud demand. Construction is expected to begin later this year."
+  },
+  {
+    "id": "m-085",
+    "tenant_id": "acme",
+    "source": "LiveMint",
+    "published_at": "2026-04-07T02:09:00Z",
+    "title": "Acme Corp shares slide after CFO resignation",
+    "body": "Shares of Acme Corp fell as much as 7% in early trading after the company announced the sudden resignation of its chief financial officer, effective immediately. The company said the search for a successor is underway and that day-to-day operations remain unaffected."
+  },
+  {
+    "id": "m-086",
+    "tenant_id": "initech",
+    "source": "CNBC-TV18",
+    "published_at": "2026-03-15T15:57:00Z",
+    "title": "Initech Ltd named in wage dispute lawsuit",
+    "body": "A group of former employees has filed a lawsuit against Initech Ltd alleging unpaid overtime wages spanning several years. Initech Ltd said it disputes the claims and intends to defend itself vigorously."
+  },
+  {
+    "id": "m-087",
+    "tenant_id": "globex",
+    "source": "Moneycontrol",
+    "published_at": "2026-03-10T13:22:00Z",
+    "title": "Globex Industries unveils AI-driven logistics platform",
+    "body": "Globex Industries launched a new AI-driven logistics platform aimed at reducing delivery times across its warehouse network. The platform, developed in partnership with a local startup, uses route optimisation and demand forecasting to cut fuel costs by an estimated 22%."
+  },
+  {
+    "id": "m-088",
+    "tenant_id": "globex",
+    "source": "LiveMint",
+    "published_at": "2026-03-13T22:00:00Z",
+    "title": "Globex Industries unveils AI-driven logistics platform",
+    "body": "Globex Industries launched a new AI-driven logistics platform aimed at reducing delivery times across its warehouse network. The platform, developed in partnership with a local startup, uses route optimisation and demand forecasting to cut fuel costs by an estimated 10%."
+  },
+  {
+    "id": "m-089",
+    "tenant_id": "globex",
+    "source": "Bloomberg",
+    "published_at": "2026-03-24T13:48:00Z",
+    "title": "Globex Industries to lay off 770 employees amid restructuring",
+    "body": "Globex Industries confirmed plans to cut approximately 770 jobs globally as part of a broader restructuring aimed at streamlining operations. The company said the move would generate annual savings of roughly $770 million."
+  },
+  {
+    "id": "m-090",
+    "tenant_id": "acme",
+    "source": "Reuters",
+    "published_at": "2026-03-28T16:20:00Z",
+    "title": "Acme Corp recalls 330,000 units over safety concern",
+    "body": "Acme Corp has issued a voluntary recall of approximately 330,000 units of its flagship product line after internal testing revealed a potential wiring defect. The company said no injuries have been reported and that replacement parts will be shipped to affected customers at no cost."
+  },
+  {
+    "id": "m-091",
+    "tenant_id": "globex",
+    "source": "Times of India",
+    "published_at": "2026-03-27T14:39:00Z",
+    "title": "Globex Industries expands into Latin America with new data centre",
+    "body": "Globex Industries announced it will build a new data centre in Latin America, its first in the region, as part of a $120 million investment to support growing cloud demand. Construction is expected to begin later this year."
+  },
+  {
+    "id": "m-092",
+    "tenant_id": "acme",
+    "source": "Bloomberg",
+    "published_at": "2026-03-27T10:18:00Z",
+    "title": "Acme Corp recalls 230,000 units over safety concern",
+    "body": "Acme Corp has issued a voluntary recall of approximately 230,000 units of its flagship product line after internal testing revealed a potential wiring defect. The company said no injuries have been reported and that replacement parts will be shipped to affected customers at no cost."
+  },
+  {
+    "id": "m-093",
+    "tenant_id": "globex",
+    "source": "Mint",
+    "published_at": "2026-04-12T12:07:00Z",
+    "title": "Globex Industries to lay off 630 employees amid restructuring",
+    "body": "Globex Industries confirmed plans to cut approximately 630 jobs globally as part of a broader restructuring aimed at streamlining operations. The company said the move would generate annual savings of roughly $630 million."
+  },
+  {
+    "id": "m-094",
+    "tenant_id": "initech",
+    "source": "CNBC-TV18",
+    "published_at": "2026-03-29T10:48:00Z",
+    "title": "Initech Ltd shares halted after merger report",
+    "body": "Trading in Initech Ltd shares was briefly halted after reports emerged that the company is in advanced talks to merge with a rival software firm. Initech Ltd declined to comment on market speculation."
+  },
+  {
+    "id": "m-095",
+    "tenant_id": "globex",
+    "source": "Reuters",
+    "published_at": "2026-04-05T02:20:00Z",
+    "title": "Globex Industries faces antitrust probe in the Middle East",
+    "body": "Regulators in the Middle East have opened a preliminary antitrust investigation into Globex Industries's pricing practices in the cloud storage market. Globex Industries said it is cooperating fully and believes its practices comply with all applicable laws."
+  },
+  {
+    "id": "m-096",
+    "tenant_id": "globex",
+    "source": "Bloomberg",
+    "published_at": "2026-04-03T06:24:00Z",
+    "title": "Globex Industries to lay off 510 employees amid restructuring",
+    "body": "Globex Industries confirmed plans to cut approximately 510 jobs globally as part of a broader restructuring aimed at streamlining operations. The company said the move would generate annual savings of roughly $510 million."
+  },
+  {
+    "id": "m-097",
+    "tenant_id": "globex",
+    "source": "Deccan Herald",
+    "published_at": "2026-04-03T20:50:00Z",
+    "title": "Globex Industries unveils AI-driven logistics platform",
+    "body": "Globex Industries launched a new AI-driven logistics platform aimed at reducing delivery times across its warehouse network. The platform, developed in partnership with a local startup, uses route optimisation and demand forecasting to cut fuel costs by an estimated 35%."
+  },
+  {
+    "id": "m-098",
+    "tenant_id": "acme",
+    "source": "Deccan Herald",
+    "published_at": "2026-03-28T09:54:00Z",
+    "title": "Acme Corp opens second plant in Chennai",
+    "body": "Acme Corp announced on Wednesday that it has commissioned a new manufacturing facility in Chennai, its second in the region. The plant will employ roughly 840 workers and is expected to double the company's output of industrial fasteners by next fiscal year. Company officials said the expansion reflects growing demand from the automotive and construction sectors."
+  },
+  {
+    "id": "m-099",
+    "tenant_id": "acme",
+    "source": "Economic Times",
+    "published_at": "2026-03-21T09:00:00Z",
+    "title": "Acme Corp publishes detailed five-year capex briefing",
+    "body": "Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. Acme Corp today released an extensive investor briefing covering its five-year capital expenditure plan. "
+  },
+  {
+    "id": "m-100",
+    "tenant_id": "globex",
+    "source": "PTI",
+    "published_at": "2026-03-06T03:00:00Z",
+    "title": "Globex Industries statement",
+    "body": "No comment."
+  }
+]

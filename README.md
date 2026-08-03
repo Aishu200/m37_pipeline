@@ -66,3 +66,12 @@ pipeline/
 
 - Handled the mentions that exceeded the max token limits by marking it as failed.
 - Used the Jaccard Similarity for deduplication as this project is suppose to run for small data, so i used the jaccard similarity because of its simplicity.
+- Created multiple variables that are used for validations or accounting is in config file
+
+## Extra Time
+
+- Took Extra half hour to create pipeline and the cli and checking the result
+
+## Remaining Feature
+
+- Resumability : For this functionality my idea is to either use sqlite or a tracking file which will contain the data until the full report is generated. After the generation was completed(report.json), then clear persistent file.
