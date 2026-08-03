@@ -34,7 +34,7 @@ pipeline/
 │   ├── config.py
 │   ├── batch.py
 │   ├── deduplication.py
-│   
+│   ├── exceptions.py
 │   
 │
 ├── tests/                   # Unit and integration tests
