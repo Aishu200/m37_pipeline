@@ -1,22 +1,56 @@
 # Mention Pipeline
 
-A Python-based pipeline for processing and extracting mentions from text data. The project is organized as a modular package with support for testing, reproducible builds, and future extensions.
+A Python-based pipeline for processing, deduplicating, batching, and enriching mentions using an LLM. The pipeline is designed to be modular, testable, and extensible, making it suitable for processing mentions from multiple tenants while tracking usage and reporting enrichment results.
+
+---
+
+## Features
+
+- Parse and process mentions from JSON input
+- Multi-tenant support
+- Mention deduplication
+- Token estimation for batching
+- Configurable batching by token count
+- LLM-powered enrichment
+  - Sentiment analysis
+  - Summary generation
+  - Topic extraction
+- Failure tracking
+- Tenant-level usage and cost reporting
+- Comprehensive testing support
+
+---
 
 ## Project Structure
 
 ```text
 pipeline/
-│── data/                  # Contains input json file
-│── mention_pipeline/      # Source code
-│── tests/                 # Unit and integration tests
-│── .gitignore             # Git ignore rules
-│── Makefile               # Common development commands
-│── pyproject.toml         # Project configuration and dependencies
-└── README.md              # Project documentation
+│
+├── data/                     # Input JSON files
+│
+├── mention_pipeline/         # Source code
+│   ├── __init__.py
+│   ├── models.py
+│   
+│   
+│   
+│   
+│   
+│
+├── tests/                   # Unit and integration tests
+│
+├── pyproject.toml           # Project configuration
+├── Makefile                 # Common development commands
+├── README.md
+└── .gitignore
 ```
 
-## Prerequisites
+---
+
+## Requirements
 
 - Python 3.11+
 - Git
 - pip
+
+---
