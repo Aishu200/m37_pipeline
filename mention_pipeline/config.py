@@ -1,0 +1,8 @@
+from enum import Enum
+
+
+class BasicConfig(Enum):
+    SHINGLE_VAlUE = 5
+    JACCARD_THRESHOLD = 0.72
+    MAX_BATCH_ITEM_QUANTITY = 20
+    BATCH_TOKEN_THRESHOLD = 8000
